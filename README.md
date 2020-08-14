@@ -1,2 +1,4 @@
+**Note: This project doesn't follow the industry standards because I was a student while developing it (will update it for sure). It mostly depicts the concepts of JavaEE.
+
 # AdvertisementHub.com
 AdvertisementHub.com is a dynamic web project. It's objective is to provide creative, high quality, theme-based and already made advertising content such as professional images or videos to organizational and non-organizational bodies for purchasing and downloading all over the globe for their advertising and marketing communication and non-commercial purpose. The technologies used at the back-end are Java SE, JDBC, Servlet and JSP. The technologies used at the front-end are HTML, CSS, Javascript and Bootstrap Framework. Apache Tomcat is used as server. MySQL database is used to store the non-multimedia data. The traditional file system is used as storage system to store and retrieve multimedia data.
